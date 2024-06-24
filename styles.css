@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-weight: 400, 700;
+    font-family: "Outfit", sans-serif;
+}
+.container{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    padding: 30px 0 30px 0;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 160px;
+}
+.qrcode{
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+.description{
+    display: block;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
